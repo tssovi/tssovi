@@ -2,9 +2,15 @@
 <h3 align="center">Backend Developer | AI Enthusiast | Passionate Problem Solver</h3>
 
 <p align="center">
-    [<img src="/logos/hr.png" alt="hackerrank" width="40" height="40"/>](https://www.hackerrank.com/tssovi)
-    [<img src="/logos/uva.png" alt="uva" width="40" height="40"/>](https://uhunt.onlinejudge.org/id/83645)
-    [<img src="/logos/lc.png" alt="leetcode" width="40" height="40"/>](https://leetcode.com/tssovi/)
+    <a href="https://www.hackerrank.com/tssovi" target="_blank">
+        <img alt="HackerRank" src="/logos/hr.png" width="40" height="40">
+    </a>
+    <a href="https://uhunt.onlinejudge.org/id/83645" target="_blank">
+        <img alt="UVA" src="/logos/uva.png" width="40" height="40">
+    </a>
+    <a href="https://leetcode.com/tssovi/" target="_blank">
+        <img alt="LeetCode" src="/logos/lc.png" width="40" height="40">
+    </a>
 </p>
 
 <p align="center">
