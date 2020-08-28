@@ -3,15 +3,15 @@
 
 <p align="center">
     <a href="https://www.hackerrank.com/tssovi" target="_blank">
-        <img alt="HackerRank" src="/logos/hr.png" width="40" height="40">
+        <b>HackerRank</b>
     </a>
     ❅
     <a href="https://uhunt.onlinejudge.org/id/83645" target="_blank">
-        <img alt="UVA" src="/logos/uva.png" width="40" height="40">
+        <b>UVA Online Judge</b>
     </a>
     ❅
     <a href="https://leetcode.com/tssovi/" target="_blank">
-        <img alt="LeetCode" src="/logos/lc.png" width="40" height="40">
+        <b>LeetCode</b>
     </a>
 </p>
 
