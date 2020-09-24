@@ -58,11 +58,11 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tssovi&layout=compact&hide=html,css,javascript" alt="tssovi" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tssovi&layout=compact&hide=html,css,javascript&theme=tokyonight" alt="tssovi" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tssovi&show_icons=true" alt="tssovi" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tssovi&show_icons=true&theme=tokyonight" alt="tssovi" />
 </p>
 
 <p align="center">
