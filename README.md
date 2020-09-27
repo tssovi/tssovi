@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tssovi&show_icons=true&theme=tokyonight" alt="tssovi" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tssovi&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="tssovi" />
 </p>
 
 <p align="center">
