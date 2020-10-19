@@ -2,21 +2,24 @@
 <h3 align="center">Backend Developer | AI Enthusiast | Passionate Problem Solver</h3>
 
 <p align="center">
-    <a href="https://www.hackerrank.com/tssovi" target="_blank">
+    <a href="https://www.hackerrank.com/tssovi">
         <b>HackerRank</b>
     </a>
     ❅
-    <a href="https://uhunt.onlinejudge.org/id/83645" target="_blank">
+    <a href="https://uhunt.onlinejudge.org/id/83645">
         <b>UVA Online Judge</b>
     </a>
     ❅
-    <a href="https://leetcode.com/tssovi/" target="_blank">
+    <a href="https://leetcode.com/tssovi/">
         <b>LeetCode</b>
     </a>
 </p>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=tssovi" alt="tssovi" />
+    <a href="https://github.com/tssovi?tab=followers">
+        <img src="https://img.shields.io/github/followers/tssovi.svg?style=social&label=Follow" alt="tssovi" />
+    </a>
 </p>
 
 - 🌱 I’m Currently Learning **Odoo, Machine Learning**
