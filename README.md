@@ -30,11 +30,9 @@
 
 - 📝 I Regulary Write Articles on **[https://medium.com/@tssovi](https://medium.com/@tssovi)**
 
----
+<hr>
 
 <h2 align="center">💻 Languages and Development Tools</h2>
-
----
 
 <p align="center">
     <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -100,6 +98,8 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
+<hr>
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tssovi&layout=compact&hide=html,css,javascript&theme=tokyonight" alt="tssovi" />
 </p>
@@ -108,11 +108,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=tssovi&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="tssovi" />
 </p>
 
----
+<hr>
 
 <h2 align="center">📕 Latest Blog Posts</h2>
-
----
 
 <!-- BLOG-POST-LIST:START -->
 - [How to get a job at Google, according to experts — Business Insider](https://medium.com/@tssovi/how-to-get-a-job-at-google-according-to-experts-business-insider-55ad5d88c20d?source=rss-878a09711662------2)
@@ -122,7 +120,8 @@
 - [What is Time Complexity?](https://medium.com/@tssovi/what-is-time-complexity-ff901dc68f87?source=rss-878a09711662------2)
 <!-- BLOG-POST-LIST:END -->
 
----
+<hr>
+
 <p align="center">
     <a href="https://linkedin.com/in/tssovi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tssovi" height="30" width="30" /></a>
     <a href="https://kaggle.com/tssovi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="tssovi" height="30" width="30" /></a>
@@ -130,4 +129,4 @@
     <a href="https://medium.com/@tssovi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tssovi" height="30" width="30" /></a>
 </p>
 
----
+<hr>
