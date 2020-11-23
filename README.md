@@ -106,10 +106,8 @@
 
 <h2 align="center">📕 Latest Blog Posts</h2>
 
-<p align="center">
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-</p>
 
 <p align="center">
     <a href="https://linkedin.com/in/tssovi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tssovi" height="30" width="30" /></a>
