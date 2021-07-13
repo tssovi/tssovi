@@ -30,7 +30,7 @@
 
 - 📝 I Regulary Write Articles on **[https://medium.com/@tssovi](https://medium.com/@tssovi)**
 
-<hr>
+<h1 align="center"></h1>
 
 <h2 align="center">💻 Languages and Development Tools</h2>
 
@@ -85,7 +85,7 @@
     <a href="https://opencv.org/" target="_blank"> <img src="/img/opencv.png" alt="opencv" width="40" height="40"/> </a>
 </p>
 
-<hr>
+<h1 align="center"></h1>
 
 <h2 align="center">👨‍💻 Currently Learning</h2>
 
@@ -98,7 +98,7 @@
     <a href="https://keras.io/" target="_blank"> <img src="/img/keras.png" alt="keras" width="40" height="40"/> </a>
 </p>
 
-<hr>
+<h1 align="center"></h1>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tssovi&layout=compact&hide=html,css,javascript&theme=tokyonight" alt="tssovi" />
@@ -108,7 +108,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=tssovi&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="tssovi" />
 </p>
 
-<hr>
+<h1 align="center"></h1>
 
 <h2 align="center">📕 Latest Blog Posts</h2>
 
@@ -120,7 +120,7 @@
 - [What is Time Complexity?](https://medium.com/@tssovi/what-is-time-complexity-ff901dc68f87?source=rss-878a09711662------2)
 <!-- BLOG-POST-LIST:END -->
 
-<hr>
+<h1 align="center"></h1>
 
 <p align="center">
     <a href="https://linkedin.com/in/tssovi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tssovi" height="30" width="30" /></a>
@@ -129,4 +129,4 @@
     <a href="https://medium.com/@tssovi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tssovi" height="30" width="30" /></a>
 </p>
 
-<hr>
+<h1 align="center"></h1>
