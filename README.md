@@ -22,9 +22,9 @@
     </a>
 </p>
 
-- 🌱 I’m Currently Learning **DevOps, Machine Learning, Odoo**
+- 🌱 I’m Currently Learning **DevOps, Machine Learning**
 
-- 💬 Ask Me About **Python, Django, Flask, Microservice, Distributed Systems**
+- 💬 Ask Me About **Python, Django, Flask, REST, Microservice, Distributed Systems**
 
 - 📫 How To Reach Me **tssovi@gmail.com**
 
@@ -35,67 +35,67 @@
 <h2 align="center">💻 Languages and Development Tools</h2>
 
 <p align="center">
-    <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://golang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-    <a href="https://www.rust-lang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="/img/python.png" alt="python" width="40" height="40"/> </a>
+    <a href="https://golang.org" target="_blank"> <img src="/img/go.png" alt="go" width="40" height="40"/> </a>
 </p>
 <p align="center">
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
-    <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://www.django-rest-framework.org/img/logo.png" alt="drf" width="40" height="40"/> </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/> </a>
-    <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="/img/django.png" alt="django" width="40" height="40"/> </a>
+    <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="/img/dj_rest.png" alt="drf" width="40" height="40"/> </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="/img/flask.png" alt="flask" width="40" height="40"/> </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="/img/fastapi.png" alt="fastapi" width="40" height="40"/> </a>
+    <a href="https://graphql.org" target="_blank"> <img src="/img/graphql.png" alt="graphql" width="40" height="40"/> </a>
 </p>
 <p align="center">
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-    <a href="https://www.oracle.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org" target="_blank"> <img src="/img/postgresql.png" alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="/img/mysql.png" alt="mysql" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="/img/mongo_db.png" alt="mongodb" width="40" height="40"/> </a>
 </p>
 <p align="center">
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.nginx.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-    <a href="https://gunicorn.org/" target="_blank"> <img src="https://gunicorn.org/images/logo.jpg" alt="gunicorn" width="40" height="40"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
-    <a href="https://redis.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-    <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
-    <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
-    <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+    <a href="https://docs.celeryproject.org/en/stable/" target="_blank"> <img src="/img/celery.png" alt="celery" width="40" height="40"/> </a>
+    <a href="https://kafka.apache.org/" target="_blank"> <img src="/img/kafka.png" alt="kafka" width="40" height="40"/> </a>
+    <a href="https://redis.io" target="_blank"> <img src="/img/redis.png" alt="redis" width="40" height="40"/> </a>
 </p>
 <p align="center">
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-    <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-    <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-    <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="/img/linux.png" alt="linux" width="40" height="40"/> </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="/img/bash.png" alt="bash" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="/img/git.png" alt="git" width="40" height="40"/> </a>
+    <a href="https://www.nginx.com" target="_blank"> <img src="/img/nginx.png" alt="nginx" width="40" height="40"/> </a>
+    <a href="https://gunicorn.org/" target="_blank"> <img src="/img/gunicorn.png" alt="gunicorn" width="40" height="40"/> </a>
 </p>
 <p align="center">
-    <a href="https://d3js.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
-    <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
-    <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
+    <a href="https://postman.com" target="_blank"> <img src="/img/postman.png" alt="postman" width="40" height="40"/> </a>
+    <a href="https://swagger.io/" target="_blank"> <img src="/img/swagger.png" alt="swagger" width="40" height="40"/> </a>
 </p>
 <p align="center">
-    <a href="https://jupyter.org/" target="_blank"> <img src="https://jupyter.org/assets/main-logo.svg" alt="jupyter" width="40" height="40"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://i.ibb.co/JddBqJr/pandas-logo.png" alt="pandas" width="40" height="40"/> </a>
-    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-    <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-    <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-    <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+    <a href="https://www.odoo.com/" target="_blank"> <img src="/img/odoo.png" alt="odoo" width="40" height="40"/> </a>
+    <a href="https://erpnext.com/" target="_blank"> <img src="/img/erpnext.png" alt="erpnext" width="40" height="40"/> </a>
 </p>
 <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="/img/docker.png" alt="docker" width="40" height="40"/> </a>
+    <a href="https://kubernetes.io" target="_blank"> <img src="/img/kubernetes.png" alt="kubernetes" width="40" height="40"/> </a>
+</p>
+<p align="center">
+    <a href="https://heroku.com" target="_blank"> <img src="/img/heroku.png" alt="heroku" width="40" height="40"/> </a>
+    <a href="https://aws.amazon.com" target="_blank"> <img src="/img/aws.png" alt="aws" width="40" height="40"/> </a>
+    <a href="https://cloud.google.com" target="_blank"> <img src="/img/google_cloud.png" alt="gcp" width="40" height="40"/> </a>
+</p>
+<p align="center">
+    <a href="https://jupyter.org/" target="_blank"> <img src="/img/jupyter.png" alt="jupyter" width="40" height="40"/> </a>
+    <a href="https://pandas.pydata.org/" target="_blank"> <img src="/img/pandas.png" alt="pandas" width="40" height="40"/> </a>
+    <a href="https://opencv.org/" target="_blank"> <img src="/img/opencv.png" alt="opencv" width="40" height="40"/> </a>
+</p>
+
+<hr>
+
+<h2 align="center">👨‍💻 Currently Learning</h2>
+
+<p align="center">
+    <a href="https://www.rust-lang.org" target="_blank"> <img src="/img/rust.png" alt="rust" width="40" height="40"/> </a>
+</p>
+<p align="center">
+    <a href="https://pytorch.org/" target="_blank"> <img src="/img/pytorch.png" alt="pytorch" width="40" height="40"/> </a>
+    <a href="https://www.tensorflow.org" target="_blank"> <img src="/img/tensorflow.png" alt="tensorflow" width="40" height="40"/> </a>
+    <a href="https://keras.io/" target="_blank"> <img src="/img/tensorflow.png" alt="keras" width="40" height="40"/> </a>
 </p>
 
 <hr>
