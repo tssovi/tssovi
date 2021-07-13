@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="18">
+            <item index="0" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="1" class="java.lang.String" itemvalue="factory-boy" />
+            <item index="2" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="3" class="java.lang.String" itemvalue="uWSGI" />
+            <item index="4" class="java.lang.String" itemvalue="dateparser" />
+            <item index="5" class="java.lang.String" itemvalue="whitenoise" />
+            <item index="6" class="java.lang.String" itemvalue="drf-yasg" />
+            <item index="7" class="java.lang.String" itemvalue="django-prometheus" />
+            <item index="8" class="java.lang.String" itemvalue="pysdl" />
+            <item index="9" class="java.lang.String" itemvalue="slackclient" />
+            <item index="10" class="java.lang.String" itemvalue="django-filter" />
+            <item index="11" class="java.lang.String" itemvalue="Faker" />
+            <item index="12" class="java.lang.String" itemvalue="sentry-sdk" />
+            <item index="13" class="java.lang.String" itemvalue="Django" />
+            <item index="14" class="java.lang.String" itemvalue="textract" />
+            <item index="15" class="java.lang.String" itemvalue="drf-nested-routers" />
+            <item index="16" class="java.lang.String" itemvalue="virtualenv" />
+            <item index="17" class="java.lang.String" itemvalue="djangorestframework" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
