@@ -101,11 +101,12 @@
 <h1 align="center"></h1>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tssovi&layout=compact&hide=html,css,javascript&theme=tokyonight" alt="tssovi" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tssovi&theme=nord_bright" alt="tssovi" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tssovi&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="tssovi" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tssovi&theme=nord_bright" alt="tssovi" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tssovi&theme=nord_bright" alt="tssovi" />
 </p>
 
 <h1 align="center"></h1>
